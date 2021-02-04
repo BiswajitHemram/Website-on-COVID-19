@@ -154,12 +154,7 @@
 
         <!-- Links -->
         <h5 class="text-uppercase mr-3">Contact Us</h5>
-
-<!-- Grid column 
- <p> <i class="fa fa-map-marker mr-3"></i> <a href="https://goo.gl/maps/sBh198EmsjMG54nB9"> 62FC+FX Bathinda, Punjab</a></p>
-  <p><i class="fa fa-phone mr-3"></i> <a href="callto:(+91) 8289080449"> (+91) 8289080449</a></p>
-  <p><i class="fa fa-envelope-o mr-3"><a href="mailto:biswajithemram753@gmail.com"></i>biswajithemram753@gmail.com</a></p>
-      -->     
+    
       </div>
       <!-- Grid column -->
 
